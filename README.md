@@ -7,6 +7,5 @@ Este repositorio muestra un tipo de Configuración de Spring Security.
 Esta configuración tiene las siguientes características:
 
 ### Generales
--Lombok
--
+- Lombok
 

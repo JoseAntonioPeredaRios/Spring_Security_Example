@@ -1,11 +1,14 @@
 # Spring_Security_Example
 
 ## Resumen
-Este repositorio muestra un tipo de Configuración de Spring Security.
+Este repositorio muestra un tipo de Configuración de Spring Security con JWT.
 
 ## Detalles
-Esta configuración tiene las siguientes características:
 
-**Generales**
+*La configuración de seguridad tiene las siguientes características:**
+
 - Lombok
 
+
+
+*Tecnologías utilizadas:**

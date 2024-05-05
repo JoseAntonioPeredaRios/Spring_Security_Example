@@ -1,5 +1,7 @@
 # Spring_Security_Example
 
+<img src="https://github.com/JoseAntonioPeredaRios/Spring_Security_Example/blob/f9d31f31c9ace0122cc679ce42e75a6b045df133/spring-security-logo-1.png" alt="banner springn security">
+
 ## Resumen
 Este repositorio pone a disposición una Configuración de Spring Security con JWT.
 
